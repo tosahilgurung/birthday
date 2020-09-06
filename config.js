@@ -3,17 +3,17 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "心爱的小可爱",  // 同上...
-        "今天是你的生日",
-        "这是我们在一起的",
-        "第三个生日了哦",
-        "去年的生日",
-        "还记得在王婆串串吃的呢",
-        "今年要吃好的喽哦",
-        "要把我家可爱猪猪喂饱饱",
-        "然后抱走",
-        "YAMI~~",
+        "TO MY LOVE",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
+        "MY BABY",  // 同上...
+        "Today is your birthday",
+        "This is your first birthday after we together",
+        "Even though I'm not with you",
+        "Please don't get sad",
+        "This distance will soon be a thing of the past",
+        "and that can't come quickly enough",
+        "I wish you all the health and happiness",
+        "A very Happy Birthday, My Love",
+        "I LOVE YOU~~",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -30,13 +30,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        turn_on: "LET'S START",
+        play: "PLAY MUSIC",
+        bannar_coming: "ADD DECORATION",
+        balloons_flying: "ANYTHINGS ELSE?",
+        cake_fadein: "BIRTHDAY CAKE？",
+        light_candle: "LIGHT THE CANDLE？",
+        wish_message: "HAPPY BIRTHDAY",
         story: "A MESSAGE FOR YOU",
     }
 };
